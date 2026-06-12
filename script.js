@@ -1,16 +1,16 @@
 // Product Data
 const products = [
-  { id: 1, name: "Eclat Noir", price: 285, category: "مسائي", notes: "شرقي", intensity: "قوي", image: "img/eclat_noir.png", rating: 4.8 },
-  { id: 2, name: "Aurora Blanche", price: 320, category: "يومي", notes: "زهري", intensity: "متوسط", image: "img/aurora_blanche.png", rating: 4.9 },
-  { id: 3, name: "Velvet Amber", price: 295, category: "خاص", notes: "خشبي", intensity: "قوي", image: "img/velvet_amber.png", rating: 4.7 },
-  { id: 4, name: "Mystic Orchid", price: 340, category: "مسائي", notes: "زهري", intensity: "قوي", image: "img/mystic_orchid.png", rating: 5.0 },
-  { id: 5, name: "Amber Royal", price: 310, category: "خاص", notes: "شرقي", intensity: "متوسط", image: "img/amber_royal.png", rating: 4.6 },
-  { id: 6, name: "Citrus Reverie", price: 265, category: "يومي", notes: "حمضيات", intensity: "خفيف", image: "img/citrus_reverie.png", rating: 4.5 },
-  { id: 7, name: "Oud Collection", price: 450, category: "خاص", notes: "شرقي", intensity: "قوي", image: "img/eclat_noir.png", rating: 4.9 },
-  { id: 8, name: "Midnight Rose", price: 275, category: "مسائي", notes: "زهري", intensity: "متوسط", image: "img/mystic_orchid.png", rating: 4.7 },
-  { id: 10, name: "Lavender Breeze", price: 195, category: "يومي", notes: "زهري", intensity: "خفيف", image: "img/aurora_blanche.png", rating: 4.4 },
-  { id: 11, name: "Vanilla Dream", price: 220, category: "مسائي", notes: "شرقي", intensity: "متوسط", image: "img/velvet_amber.png", rating: 4.8 },
-  { id: 12, name: "Patchouli Gold", price: 380, category: "خاص", notes: "خشبي", intensity: "قوي", image: "img/amber_royal.png", rating: 4.9 },
+  { id: 1, name: "Eclat Noir", price: 285, category: "مسائي", notes: "شرقي", intensity: "قوي", image: "assets/eclat_noir.png", rating: 4.8 },
+  { id: 2, name: "Aurora Blanche", price: 320, category: "يومي", notes: "زهري", intensity: "متوسط", image: "assets/aurora_blanche.png", rating: 4.9 },
+  { id: 3, name: "Velvet Amber", price: 295, category: "خاص", notes: "خشبي", intensity: "قوي", image: "assets/velvet_amber.png", rating: 4.7 },
+  { id: 4, name: "Mystic Orchid", price: 340, category: "مسائي", notes: "زهري", intensity: "قوي", image: "assets/mystic_orchid.png", rating: 5.0 },
+  { id: 5, name: "Amber Royal", price: 310, category: "خاص", notes: "شرقي", intensity: "متوسط", image: "assets/amber_royal.png", rating: 4.6 },
+  { id: 6, name: "Citrus Reverie", price: 265, category: "يومي", notes: "حمضيات", intensity: "خفيف", image: "assets/citrus_reverie.png", rating: 4.5 },
+  { id: 7, name: "Oud Collection", price: 450, category: "خاص", notes: "شرقي", intensity: "قوي", image: "assets/eclat_noir.png", rating: 4.9 },
+  { id: 8, name: "Midnight Rose", price: 275, category: "مسائي", notes: "زهري", intensity: "متوسط", image: "assets/mystic_orchid.png", rating: 4.7 },
+  { id: 10, name: "Lavender Breeze", price: 195, category: "يومي", notes: "زهري", intensity: "خفيف", image: "assets/aurora_blanche.png", rating: 4.4 },
+  { id: 11, name: "Vanilla Dream", price: 220, category: "مسائي", notes: "شرقي", intensity: "متوسط", image: "assets/velvet_amber.png", rating: 4.8 },
+  { id: 12, name: "Patchouli Gold", price: 380, category: "خاص", notes: "خشبي", intensity: "قوي", image: "assets/amber_royal.png", rating: 4.9 },
 ];
 
 // State Management
